@@ -1,3 +1,9 @@
+#calculator 
+it is a open source project 
+
+about app- 
+this is usefull for performing basic arithmatic operations
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
